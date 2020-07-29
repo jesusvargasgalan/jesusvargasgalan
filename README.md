@@ -3,7 +3,7 @@
 I am Jesús Vargas Galán,I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, isn't it? Well grab the firm handle closest to you because we are gonna go warp speed to know my universe.
   
 <details>
-  <summary><i> Click <b> Here </b> to enter the Warp Speed and know more about my universe! </i>
+  <summary><i> Click <b> AQUI </b> para saber mas sobre mi </i>
 <p align="center">  
   <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
   <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="150" height="120" /> 
