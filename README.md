@@ -1,6 +1,6 @@
-# Welcome to my profile <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
+# Bienvenido a mi perfil <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-I am Jesús Vargas Galán,I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, isn't it? Well grab the firm handle closest to you because we are gonna go warp speed to know my universe.
+Soy Jesús Vargas Galán,soy el capitán de esta nave. Esta nave viaja a 🛰️  __27,580 km/h__ (or 17,130 mph). ¿Alucinante,eh?Bueno,agárrate bien porque vamos a ir a toda velocidad para conocer mi universo.
   
 <details>
   <summary><i> Click <b> AQUI </b> para saber mas sobre mi </i>
@@ -17,13 +17,13 @@ I am Jesús Vargas Galán,I am the captain of this ship. This ship 🛰️ sails
 </p>
 
 
-- 🔭 I’m currently learning web
-- ✨ Pronouns: He/him
-- 🛸 Fun fact: I can code without coffee
-- 🎼 Hobbies: [Music]
+- 🔭 Actualmente estoy aprendiendo web en un curso
+- ✨ Género : Hombre
+- 🛸 Estudios: I.E.S Campanilla
+- 🎼 Hobbies: Música , amigos y videojuegos
 ![Jesus's github stats](https://github-readme-stats.vercel.app/api?username=jesusvargasgalan&show_icons=true&hide_border=true)
 
-We have sped and warped through my universe. Want to unveil your own universe? Contact me at: <a href="https://www.linkedin.com/in/jesus-vargas-galan-405516158/">
+Hemos viajado a través de mi universo para conocerme un poco mejor, si quieres contactar conmigo hazlo a través de Linkedin ---> Contact me at: <a href="https://www.linkedin.com/in/jesus-vargas-galan-405516158/">
   <img align="right" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
 
@@ -34,4 +34,4 @@ We have sped and warped through my universe. Want to unveil your own universe? C
 <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
 </p>
 
-### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
+
