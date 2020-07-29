@@ -23,7 +23,7 @@ I am Jesús Vargas Galán,I am the captain of this ship. This ship 🛰️ sails
 - 🎼 Hobbies: [Music]
 ![Jesus's github stats](https://github-readme-stats.vercel.app/api?username=jesusvargasgalan&show_icons=true&hide_border=true)
 
-We have sped and warped through my universe. Want to unveil your own universe? Contact me at: <a href="https://www.linkedin.com/in/chetan-chawla">
+We have sped and warped through my universe. Want to unveil your own universe? Contact me at: <a href="https://www.linkedin.com/in/jesus-vargas-galan/">
   <img align="right" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
 
