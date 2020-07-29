@@ -21,17 +21,13 @@ I am Jesús Vargas Galán,I am the captain of this ship. This ship 🛰️ sails
 - ✨ Pronouns: He/him
 - 🛸 Fun fact: I can code without coffee
 - 🎼 Hobbies: [Music]
-![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetanchawla&show_icons=true&hide_border=true)
+![Jesus's github stats](https://github-readme-stats.vercel.app/api?username=jesusvargasgalan&show_icons=true&hide_border=true)
 
 We have sped and warped through my universe. Want to unveil your own universe? Contact me at: <a href="https://www.linkedin.com/in/chetan-chawla">
   <img align="right" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
-<a href="https://www.twitter.com/chetan_chawla_">
-  <img align="right" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
-</a>
-<a href="mailto:chetanchawlacc4@gmail.com">
-  <img align="right" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
+
+
 </details>
 
 <p align="center">
