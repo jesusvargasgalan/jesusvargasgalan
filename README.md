@@ -3,7 +3,7 @@
 Soy Jesús Vargas Galán,soy el capitán de esta nave. Esta nave viaja a 🛰️  __27,580 km/h__ (o 17,130 mph). ¿Alucinante,eh?Bueno,agárrate bien porque vamos a ir a toda velocidad para conocer mi universo.
   
 <details>
-  <summary><i> Click <font color="red"> AQUI </font> para saber mas sobre mi </i>
+  <summary><i> Click <b> AQUI </b> para saber mas sobre mi </i>
 <p align="center">  
   <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
   <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="150" height="120" /> 
