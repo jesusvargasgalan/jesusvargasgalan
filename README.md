@@ -23,7 +23,7 @@ Soy Jesús Vargas Galán,soy el capitán de esta nave. Esta nave viaja a 🛰️
 - 🎼 Hobbies: Música , amigos y videojuegos
 ![Jesus's github stats](https://github-readme-stats.vercel.app/api?username=jesusvargasgalan&show_icons=true&hide_border=true)
 
-Aquí se acaba el viaje a través de mi universo, si quieres contactar conmigo hazlo a través de Linkedin ---><a href="https://www.linkedin.com/in/jesus-vargas-galan-405516158/">
+Aquí se acaba el viaje a través de mi universo, si quieres contactar conmigo hazlo a través de Linkedin<a href="https://www.linkedin.com/in/jesus-vargas-galan-405516158/">
   <img align="right" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
 
