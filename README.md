@@ -17,7 +17,7 @@ Soy Jesús Vargas Galán,soy el capitán de esta nave. Esta nave viaja a 🛰️
 </p>
 
 
-- 🔭 Actualmente estoy aprendiendo web en un curso impartido por E.O.I
+- 🔭 Actualmente estoy trabajando como desarrollador front-end
 - ✨ Género : Hombre
 - 🛸 Estudios: I.E.S Campanilla
 - 🎼 Hobbies: Música , amigos y videojuegos
